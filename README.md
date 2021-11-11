@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning: **Advanced Biology, Programming and other cool things!**
 
-- 📝 I post everyday on my Hack Club Scrapbook: [https://scrapbook.hackclub.com/J_cordz/](https://scrapbook.hackclub.com/J_cordz/)
+- 📝 I post everyday on my [Hack Club Scrapbook.](https://scrapbook.hackclub.com/J_cordz/)
 
 - 💬 Ask me about: **Anything relating science, sci-fi, coding, videogames, books, music, and more things!**
 
-- 📫 How to reach me: **You can find me on the Hack Club Slack! https://hackclub.com/slack/**
+- 📫 How to reach me: **You can find me on the [Hack Club Slack!](https://hackclub.com/slack/)**
 
 - ⚡️ Fun Fact: **I'm a fast-learner!**
 
