@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-cordz&show_icons=true&theme=merko&locale=en" alt="j-cordz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-cordz&theme=dark" alt="j-cordz" /></p>
+
+![Metrics](github-metrics.svg)
