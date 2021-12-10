@@ -35,12 +35,12 @@ Shell: zsh and bash.
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">:package: Frameworks:</h3>
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">:wrench: Tools:</h3>
 
 ![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-121011.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
@@ -60,21 +60,17 @@ Shell: zsh and bash.
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Krita](https://img.shields.io/badge/krita-3BABFF.svg?style=for-the-badge&logo=krita&logoColor=white)
 
-<h3 align="left">OS and Package Management:</h3>
+<h3 align="left">:computer: :postbox: OS and Package Management:</h3>
 
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pop!-OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040.svg?style=for-the-badge&logo=homebrew&logoColor=black)
 
-
-<h3 align="left">Shell:</h3>
+<h3 align="left">:shell: Shell:</h3>
 
 ![Zsh](https://img.shields.io/badge/Zsh-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
-
-<h3 align="left">Contact Me:</h3>
-
-![HackClub](https://img.shields.io/badge/Hack%20Club-EC3750.svg?style=for-the-badge&logo=hackclub&logoColor=white)
-![Scrapbook](https://img.shields.io/badge/Scrapbook-EC3750.svg?style=for-the-badge&logo=hackclub&logoColor=white)
 
 ----
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-cordz&show_icons=true&theme=merko&locale=en&layout=compact" alt="j-cordz" /></p>
