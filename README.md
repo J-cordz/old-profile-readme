@@ -21,8 +21,10 @@ Shell: zsh and bash.
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=j-cordz&label=Profile%20views&color=DC143C&style=flat" alt="j-cordz" /> 
-<img src="https://img.shields.io/github/followers/J-cordz?style=social" alt="j-cordz followers" /> 
- </p>
+<img src="https://img.shields.io/github/followers/J-cordz?style=social" alt="j-cordz followers" />       
+<a href="https://scrapbook.hackclub.com/J_cordz/"><img src="https://img.shields.io/badge/Javier Zaleta Scrapbook-%23EC3750.svg?&style=flat&logo=hack-club&logoColor=white"></a> 
+<a href="https://www.polywork.com/j_cordz"><img src="https://img.shields.io/badge/Javier Zaleta Polywork-543DE0.svg?&style=flat&logo=polywork&logoColor=white"></a>     
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-cordz&theme=monokai&margin-w=15" alt="j-cordz" /></a> </p>
 
