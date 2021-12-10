@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Javier Zaleta!</h1>
+<h1 align="center">Hi 👋, I'm Javier Zaleta!</h1>
 
 ```python
 Javier_zaleta
@@ -13,8 +13,8 @@ Ask me about: Anything about the things I like!
 Interesting Fact: I'm a fast-learner!
 Languages: HTML, CSS, JavaScript, Markdown, LaTeX.
 Frameworks: React, Next.js
-Tools: GitHub, GH Actions, Git, VS Code, Atom, Vim, Emacs, Obsidian, Blender, Slack, Repl.it, Hugo, Netlify, 
-      -Jekyll, Unity, Unreal Engine, Krita.
+Tools: GitHub, GitHub Actions, Git, VS Code, Atom, Vim, Emacs, Obsidian, Blender, Slack, 
+     - Repl.it, Hugo, Jekyll, Netlify, Unity, Unreal Engine, Figma, Krita.
 OS: MacOS and Pop!_OS Linux.
 Shell: zsh and bash.
 ```
@@ -42,7 +42,7 @@ Shell: zsh and bash.
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
-<h3 align="left">:wrench: Tools:</h3>
+<h3 align="left">:wrench: Software and Tools:</h3>
 
 ![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-121011.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
@@ -54,12 +54,13 @@ Shell: zsh and bash.
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
-![Hugo](https://img.shields.io/badge/hugo-663399.svg?style=for-the-badge&logo=hugo&logoColor=white)
-![netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black)
 ![Replit](https://img.shields.io/badge/Replit-667881.svg?style=for-the-badge&logo=replit&logoColor=black)
+![Hugo](https://img.shields.io/badge/hugo-663399.svg?style=for-the-badge&logo=hugo&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white)
+![netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=black)
 ![Krita](https://img.shields.io/badge/krita-3BABFF.svg?style=for-the-badge&logo=krita&logoColor=white)
 
 <h3 align="left">:computer: :postbox: OS and Package Management:</h3>
