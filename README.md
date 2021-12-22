@@ -3,8 +3,9 @@
 :wave: Hey! I'm Javier, a 17-year-old high school senior student, developer, science enthusiast, full-time nerd and active **[Hack Club](https://hackclub.com/)** member. I make cool things and share them with the world!
 
 ```python
-Javier_zaleta
--------------------------
+Javier_zaleta | J_cordz@github
+--------------------------------
+Location: Mexico
 Learning: Everything I can about science, programming and other awesome things!
 Hobbies: Programming, Reading, Gaming, Sci-Fi, Music, Movies, Game Development, Digital Art.
 How to reach me: You can find me on the Hack Club Slack and on my Scrapbook where I post daily what I'm doing!
