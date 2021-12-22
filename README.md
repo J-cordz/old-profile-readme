@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javier Zaleta!</h1>
+<h1 align="center">Hi :wave:, I'm Javier Zaleta!</h1>
 
 :wave: Hey! I'm Javier, a 17-year-old high school senior student, developer, science enthusiast, full-time nerd and active **[Hack Club](https://hackclub.com/)** member. I make cool things and share them with the world!
 
@@ -20,7 +20,9 @@ Interesting Fact: I'm a fast-learner!
 <a href="https://www.polywork.com/j_cordz"><img src="https://img.shields.io/badge/Javier Zaleta Polywork-543DE0.svg?&style=flat&logo=polywork&logoColor=white"></a>     
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-cordz&theme=monokai&margin-w=15" alt="j-cordz" /></a> </p>
+<p align="left"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-cordz&theme=monokai&margin-w=15" alt="j-cordz" /></a> 
+</p>
 
 ----
 <h3 align="left">:octocat: Languages:</h3>
@@ -70,9 +72,8 @@ Interesting Fact: I'm a fast-learner!
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 
 ----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-cordz&show_icons=true&theme=merko&locale=en&layout=compact" alt="j-cordz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-cordz&show_icons=true&theme=merko&locale=en" alt="j-cordz" /></p>
+![Javier Zaleta's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-cordz&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-cordz&layout=compact&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-cordz&theme=dark" alt="j-cordz" /></p>
 
