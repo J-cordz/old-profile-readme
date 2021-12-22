@@ -1,22 +1,15 @@
 <h1 align="center">Hi 👋, I'm Javier Zaleta!</h1>
 
+:wave: Hey! I'm Javier, a 17-year-old high school senior student, developer, science enthusiast, full-time nerd and active **[Hack Club](https://hackclub.com/)** member. I make cool things and share them with the world!
+
 ```python
 Javier_zaleta
 -------------------------
-About Me: I'm a 17-year-old student, developer, science enthusiast, full-time nerd and active Hack Club member;
-        - I make cool things and share them with the world!
-Location: Mexico
 Learning: Everything I can about science, programming and other awesome things!
 Hobbies: Programming, Reading, Gaming, Sci-Fi, Music, Movies, Game Development, Digital Art.
 How to reach me: You can find me on the Hack Club Slack and on my Scrapbook where I post daily what I'm doing!
 Ask me about: Anything about the things I like!
 Interesting Fact: I'm a fast-learner!
-Languages: HTML, CSS, JavaScript, Markdown, LaTeX.
-Frameworks: React, Next.js
-Tools: GitHub, GitHub Actions, Git, VS Code, Atom, Vim, Emacs, Obsidian, Blender, Slack, 
-     - Repl.it, Hugo, Jekyll, Netlify, Unity, Unreal Engine, Figma, Krita.
-OS: MacOS and Pop!_OS Linux.
-Shell: zsh and bash.
 ```
 
 <p align="left"> 
