@@ -41,6 +41,7 @@ Lastly, you can also find me on my Hack Club’s Scrapbook where I post daily wh
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 
 <h3 align="left">:wrench: Software and Tools:</h3>
 
