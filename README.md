@@ -11,11 +11,10 @@ Ask me about: Anything about the things I like!
 Interesting Fact: I'm a fast-learner!
 ```
 
-Hi, I’m Javier! I’m a 17-year-old high school student, I’m interest in science (especially in the biological area), software development, open source, game development, digital art, blockchain and decentralized applications and many more things!
-I like making things with code and sharing them with the world, mainly I work with Front-End Dev technologies such as HTML, CSS and JavaScript and I’m currently learning frameworks like React, Next.js and Vue.
+Hi, I’m Javier! I’m a 17-year-old high school student, I’m interest in science, software development, open source, game development, digital art, blockchain and decentralized applications and many more things!
+I like making things with code and sharing them with the world, mainly I work with Front-End Dev technologies such as HTML, CSS and JavaScript and I’m currently learning frameworks like React, Next.js and Vue. On my other hobbies, I’m also a full-time nerd, as a enjoy a lot Sci-fi and comics and I like talking with friends!
 
-You can find most of my projects and experiments in here on my GitHub Account, although I have some projects on dev waiting to be upload and shared. Whenever I'm not working on something, I’m on the Hack Club Slack, where I’m an active member of the community, Club Leader and contributor, I’m also a full-time nerd, as a enjoy a lot Sci-fi and comics.
-Lastly, you can also find me on my Hack Club’s Scrapbook where I post daily what I'm doing!
+You can find most of my projects and experiments in here on my GitHub. Whenever I'm not working on something, I’m on the Hack Club Slack, where I’m an active member of the community, Club Leader and contributor, you can find me in there as ```@J_cordz``` posting cool things and sharing daily what I'm doing on my Scrapbook! 
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=j-cordz&label=Profile%20views&color=DC143C&style=flat" alt="j-cordz" /> 
