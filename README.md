@@ -12,7 +12,7 @@ Interesting Fact: I'm a fast-learner!
 ```
 
 Hi, I’m Javier! I’m a 17-year-old high school student, I’m interest in science, software development, open source, game development, digital art, blockchain and decentralized applications and many more things!
-I like making things with code and sharing them with the world, mainly I work with Front-End Dev technologies such as HTML, CSS and JavaScript and I’m currently learning frameworks like React, Next.js and Vue. On my other hobbies, I’m also a full-time nerd, as a enjoy a lot Sci-fi, books and comics and I like talking with friends!
+I like making things with code and sharing them with the world, mainly I work with Front-End Dev technologies such as HTML, CSS and JavaScript and I’m currently learning frameworks like React, Next.js and Vue. On my other hobbies, I’m also a full-time nerd, as I enjoy a lot Sci-fi, books, videogames and comics and I like talking with friends!
 
 You can find most of my projects and experiments in here on my GitHub. Whenever I'm not working on something, I’m on the [Hack Club](https://hackclub.com/) Slack, where I’m an active member of the community, Club Leader and contributor, you can find me in there as ```@J_cordz``` posting cool things and sharing daily what I'm doing on my Scrapbook! 
 
