@@ -37,7 +37,7 @@ You can find most of my projects and experiments in here on my GitHub. Whenever 
 > ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 > ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-- <h3 align="left">:wrench: Frameworks, Libraries and other Tools::</h3>
+- <h3 align="left">:wrench: Frameworks, Libraries and other Tools:</h3>
 
 > ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 > ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
