@@ -52,7 +52,7 @@ You can find most of my projects and experiments in here on my GitHub. Whenever 
 > ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 > ![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 > ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
-> ![Replit](https://img.shields.io/badge/Replit-667881.svg?style=for-the-badge&logo=replit&logoColor=black)
+> ![Repl.it](https://img.shields.io/badge/Repl.it-667881.svg?style=for-the-badge&logo=replit&logoColor=black)
 > ![Hugo](https://img.shields.io/badge/hugo-663399.svg?style=for-the-badge&logo=hugo&logoColor=white)
 > ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white)
 > ![netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black)
@@ -72,6 +72,8 @@ You can find most of my projects and experiments in here on my GitHub. Whenever 
 
 > ![Zsh](https://img.shields.io/badge/Zsh-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 > ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
+> ![iTerm2](https://img.shields.io/badge/iTerm2-000000.svg?&style=for-the-badge&logo=iTerm2&logoColor=white)
+> ![Starship](https://img.shields.io/badge/starship-DD0B78.svg?&style=for-the-badge&logo=starship&logoColor=white)
 
 ----
 ![Javier Zaleta's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-cordz&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
