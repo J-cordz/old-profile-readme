@@ -21,7 +21,6 @@ You can find most of my projects and experiments in here on my GitHub. Whenever 
 <img src="https://img.shields.io/github/followers/J-cordz?style=social" alt="j-cordz followers" />       
 <a href="https://scrapbook.hackclub.com/J_cordz/"><img src="https://img.shields.io/badge/ ~/Javier Zaleta's Scrapbook-%23EC3750.svg?&style=flat&logo=hack-club&logoColor=white"></a> 
 <a href="https://www.polywork.com/j_cordz"><img src="https://img.shields.io/badge/ ~/Javier Zaleta's Polywork-543DE0.svg?&style=flat&logo=polywork&logoColor=white"></a>
-<a href="https://twitter.com/j_cordz"><img src="https://img.shields.io/badge/ ~/J__cordz-1DA1F2.svg?&style=flat&logo=twitter&logoColor=white"></a>       
 </p>
 
 <p align="left"> 
