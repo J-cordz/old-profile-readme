@@ -24,7 +24,7 @@ You can find most of my projects and experiments in here on my GitHub. Whenever 
 </p>
 
 <p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-cordz&theme=monokai&margin-w=15" alt="j-cordz" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-cordz&theme=monokai" alt="j-cordz" /></a> 
 </p>
 
 ----
