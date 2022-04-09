@@ -22,11 +22,9 @@ You can find most of my projects and experiments in here on my GitHub. Whenever 
 <a href="https://scrapbook.hackclub.com/J_cordz/"><img src="https://img.shields.io/badge/ ~/Javier Zaleta's Scrapbook-%23EC3750.svg?&style=flat&logo=hack-club&logoColor=white"></a> 
 <a href="https://www.polywork.com/j_cordz"><img src="https://img.shields.io/badge/ ~/Javier Zaleta's Polywork-543DE0.svg?&style=flat&logo=polywork&logoColor=white"></a>
 </p>
-
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-cordz&theme=monokai" alt="j-cordz" /></a> 
-</p>
-
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=J-cordz&column=8&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  
 ----
 - <h3 align="left">:octocat: Languages:</h3>
 
