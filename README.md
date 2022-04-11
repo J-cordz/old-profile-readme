@@ -16,6 +16,17 @@ I like making things with code and sharing them with the world, mainly I work wi
 
 You can find most of my projects and experiments in here on my GitHub. Whenever I'm not working on something, I’m on the [Hack Club](https://hackclub.com/) Slack, where I’m an active member of the community, Club Leader and contributor, you can find me in there as ```@J_cordz``` posting cool things and sharing daily what I'm doing on my Scrapbook! 
 
+
+<details><summary>About Me:</summary>
+
+Hey, thanks for stopping by! 
+
+</details>
+
+
+
+
+
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=j-cordz&label=Profile%20views&color=DC143C&style=flat" alt="j-cordz" /> 
 <img src="https://img.shields.io/github/followers/J-cordz?style=social" alt="j-cordz followers" />       
