@@ -36,7 +36,7 @@ You can find my full tech stack below on the next section of my README :octocat:
  
 </details>
 
-You can find most of my coding projects and experiments here on my ![GitHub](https://github.com/J-cordz?tab=repositories), and whenever I'm not studying, tinkering around with something or doing anything else, I'm on the [Hack Club](https://hackclub.com/) Slack, where I’m an active member of the community, Club Leader and Open Source contributor, you can find me in there as ```@J_cordz``` posting cool things and sharing daily what I'm doing on my Scrapbook!
+You can find most of my coding projects and experiments here on my [GitHub](https://github.com/J-cordz?tab=repositories), and whenever I'm not studying, tinkering around with something or doing anything else, I'm on the [Hack Club](https://hackclub.com/) Slack, where I’m an active member of the community, Club Leader and Open Source contributor, you can find me in there as ```@J_cordz``` posting cool things and sharing daily what I'm doing on my Scrapbook!
 
 ----
 
