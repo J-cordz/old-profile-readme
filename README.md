@@ -11,7 +11,7 @@ Ask me about: Anything about the things I like!
 Interesting Fact: I'm a fast-learner!
 ```
 
-Hi, nice to meet you! I’m Javier! I’m a 17-year-old high school student, developer and maker! To know more about me and what I do, expand the link below! 🔗
+Hi, nice to meet you! I’m Javier! I’m a 18-year-old high school student, developer and maker! To know more about me and what I do, expand the link below! 🔗
 
 
 <details><summary>🗃️ About Me:</summary>
